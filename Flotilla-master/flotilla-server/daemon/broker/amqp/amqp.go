@@ -2,7 +2,7 @@ package amqp
 
 import (
 	"github.com/streadway/amqp"
-	"github.com/tylertreat/Flotilla/flotilla-server/daemon/broker"
+	"github.com/jubeenshah/flotilla-mod/Flotilla-master/flotilla-server/daemon/broker"
 )
 
 const (

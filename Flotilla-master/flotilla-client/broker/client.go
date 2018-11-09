@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"nanomss.org/go-mangos"
+	"nanomsg.org/go-mangos"
 	"nanomsg.org/go-mangos/mangos/protocol/req"
 	"nanomsg.org/go-mangos/mangos/transport/tcp"
 )
